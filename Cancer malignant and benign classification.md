@@ -74,7 +74,8 @@ val_late = 0.1로 설정하여 전체 'Benign data', 'Malignant data'를 random�
 ![image](https://user-images.githubusercontent.com/87847087/164959841-dc4c7920-e464-4788-83f0-f3d567d10538.png)
 
 `개인정보에 관련된 내용을 blur처리 함`
-위 정보에서 병변특성을 새로운 피쳐로 추가시켜서 학습시킴
+
+위 정보에서 병변특성을 새로운 피쳐로 추가시켜서 학습시켰다
 
 ## New Dataset
 
@@ -94,4 +95,4 @@ val_late = 0.1로 설정하여 전체 'Benign data', 'Malignant data'를 random�
 
 - 후에 교수님과 미팅을 통해 기존 dataset이 매우 극소량이고 quality가 좋지 않아 의미있는 결과 값을 내기 어렵다는 점을 알았다.
 - 이번 프로젝트를 통해 image dataset을 전처리하고 cross validation을 구현하여 f1-score를 시각화 할 수 있었다.
-- 모델을 학습할 때 image data 뿐만 아니라 image마다 해당된 다른 데이터(excel, csv, json) 등을 이용하여 새로운 피쳐로 지정하여 더 신뢰성이 높은 데이터로 만들 수 있다.
+- 모델을 학습할 때 image data 뿐만 아니라 image마다 해당된 다른 데이터(excel, csv, json) 등을 이용하여 새로운 피쳐로 지정하여 더 신뢰성 높은 데이터로 만들 수 있다.
