@@ -1,14 +1,14 @@
 # Project-Descriptions
 
-- AI/영상처리 연구실에서 진행한 projects들의 summury
-- 기업, 병원 project이기에 github에서 private repo로 되어있어 기록을 남기고자 작성
+- A summury of projects carried out in the AI/image processing lab
+- As it is a corporate and hospital project, it is a private repo on github. Therefore, I wrote it to keep a separate record.
 
 
 
-## 암의 악성/양성 분별 프로젝트
+## Cancer malignancy/benign classification project
 
 https://github.com/MegaGnar13/Project-Descriptions/blob/main/Cancer%20classification.md
 
-## 사출품의 결함 탐지 프로젝트
+## Defect detection project for molded parts
 
 https://github.com/MegaGnar13/Project-Descriptions/blob/main/Defect%20Detection.md
