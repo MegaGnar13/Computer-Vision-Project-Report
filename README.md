@@ -7,8 +7,8 @@
 
 ## Cancer malignancy/benign classification project
 
-https://github.com/MegaGnar13/Project-Descriptions/blob/main/Cancer%20classification.md
+https://github.com/learningssik/Computer-Vision-Project-Report/blob/main/Cancer%20classification.md
 
 ## Defect detection project for molded parts
 
-https://github.com/MegaGnar13/Project-Descriptions/blob/main/Defect%20Detection.md
+https://github.com/learningssik/Computer-Vision-Project-Report/blob/main/Defect%20Detection.md
