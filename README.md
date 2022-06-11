@@ -1,6 +1,7 @@
 # Project-Descriptions
 
 - A summury of projects carried out in the AI/image processing lab
+
 - As it is a corporate and hospital project, it is a private repo on github. Therefore, I wrote it to keep a separate record.
 
 
